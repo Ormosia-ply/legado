@@ -15,7 +15,7 @@ fragment = "1.8.6"
 #不要更新版本
 hutool = "5.8.22"
 
-libarchive = "1.1.4"
+libarchive = "1.1.6"
 lifecycle = "2.8.7"
 glide = "4.16.0"
 gson = "2.12.1"
